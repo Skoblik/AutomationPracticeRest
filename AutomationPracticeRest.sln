@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapExample", "SoapExample\SoapExample.csproj", "{093509A1-897D-4624-B08C-295F46F85A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoRest", "GoRest\GoRest.csproj", "{08EA11D9-3C80-4596-B5CB-9AD0582229BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093509A1-897D-4624-B08C-295F46F85A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093509A1-897D-4624-B08C-295F46F85A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093509A1-897D-4624-B08C-295F46F85A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093509A1-897D-4624-B08C-295F46F85A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EA11D9-3C80-4596-B5CB-9AD0582229BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EA11D9-3C80-4596-B5CB-9AD0582229BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EA11D9-3C80-4596-B5CB-9AD0582229BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EA11D9-3C80-4596-B5CB-9AD0582229BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E200D26F-961F-41F8-B822-5948E4CF9C54}
+	EndGlobalSection
+EndGlobal
